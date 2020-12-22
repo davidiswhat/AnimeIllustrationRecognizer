@@ -1,0 +1,19 @@
+To add image files:
+- Ctrl select images in the file dialog 
+- Or drag images into the area underneath Files Chosen 
+	
+(.png .jpg .jpeg) extensions only
+
+To remove chosen image files:
+- Ctrl select images in the list underneath Files Chosen
+- Click the Remove Files button
+
+Provide a unique and valid submission name for the database
+
+Grayscale:
+- The image will be converted to grayscale
+
+Face Only:
+- The image of the face of the character will be detected and cropped
+
+Checking both checkboxes will produce a grayscale cropped face of the character
