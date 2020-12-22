@@ -2,9 +2,11 @@
 AnimeIllustrationRecognizer is an application to recognize Anime characters and tags (labels) for a given illustration.
 
 # Installation Instructions
-We apologize as we do not have a convenient way to install all the package dependencies needed nor do we have them listed. 
+We apologize as we do not have a convenient way to install all the package dependencies needed nor do we have them all listed. 
 
 A major one used was Tensorflow. 
+
+- After installation, run MainWindow.py
 
 # Usage
 
