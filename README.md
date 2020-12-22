@@ -6,7 +6,7 @@ We apologize as we do not have a convenient way to install all the package depen
 
 A major one used was Tensorflow. 
 
-- After installation, run MainWindow.py
+- Run MainWindow.py after installation
 
 # Usage
 
