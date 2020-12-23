@@ -17,7 +17,7 @@ Run MainWindow.py after installation
 - Click the "Load a new image" button to open the add image window interface
 - You can submit multiple images (*.png, *.jpg, *.jpeg) to the database at once
 - Each submission to the database requires a unique submission name
-- You only need to submit the file name (e.g. sub1.jpg) in the second textbox if it is a unique file name in the database; otherwise, you must include the submission name in the first textbox
+- You only need to submit the file name (e.g. sub1.jpg) in the second textbox if it is a unique file name in the database; otherwise, you must also include the submission name in the first textbox
 - Click the "Submit" button to view the image from the database and generate the tag outputs 
 - Note: Character names are shown and are treated as a tag
 - Note: output.txt and output.jpg are generated from the most recent output
