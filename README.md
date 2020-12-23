@@ -49,6 +49,5 @@ We give special thanks to them
 
 ## Author
 
-**David Li**
 + [https://github.com/davidiswhat](https://github.com/davidiswhat)
 + [https://github.com/Gnoseil](https://github.com/Gnoseil)
