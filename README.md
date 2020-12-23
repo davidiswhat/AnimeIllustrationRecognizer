@@ -2,9 +2,7 @@
 AnimeIllustrationRecognizer is an application to recognize Anime characters and tags (labels) for a given illustration by using an Attention Model.
 
 # Installation Instructions
-We apologize as we do not have a convenient way to install all the package dependencies needed nor do we have them all listed. 
-
-A major one used was Tensorflow. 
+We apologize as we do not have a convenient way to install all the package dependencies needed nor do we have them all listed. A major one used was Tensorflow. 
 
 ## Prerequisites
 - Due to us reaching the limit of GitHub's LFS free data plan, you must download the Attention Model from the following Google Drive: https://drive.google.com/file/d/1V6ztX0O3w4_w8k8otXrQjylX2_biAX3I/view?usp=sharing
@@ -26,15 +24,15 @@ Run MainWindow.py after installation
 
 ## Image Preprocessing
 ![](https://github.com/davidiswhat/AnimeIllustrationRecognizer/blob/main/Screenshots/ImagePreprocessing.PNG)
-- The add image window interface includes checkboxes to crop the Anime face and to use grayscale
-- The image showcases an example of this and how you would include the submission name
+- The add image window interface includes checkboxes to crop the face after detection or to apply grayscale
+- This image showcases an example of both of them being applied and how you would include the submission name in the first textbox
 
 ## Pixelate
 ![](https://github.com/davidiswhat/AnimeIllustrationRecognizer/blob/main/Screenshots/Pixelate.PNG)
-- WARNING: This is a time consuming process
+- WARNING: This is a time-consuming process
 - Clicking the "Pixelate" button will open a window where the user can input a tag (e.g. headphones) to pixelate
 - The image will pixelate the relevant area(s) the model used to calculate the tag's confidence coefficient 
-- Note: The other two buttons, "Mask" and "Stylegan", currently do nothing and are hidden to users
+- Note: The other two buttons, "Mask" and "Stylegan", currently do nothing and are hidden from users
 
 
 # Training Dataset
