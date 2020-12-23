@@ -13,7 +13,7 @@ Run MainWindow.py after installation
 # Usage
 - Note: Character names are shown and are treated as a tag
 - Note: output.txt and output.jpg are generated from the most recent output
-- Note: The two buttons, "Mask" and "Stylegan", currently do nothing and are hidden from users
+- Note: The two buttons, "Mask" and "Stylegan," currently do nothing and are hidden from users
 
 ## Main Window 
 ![](https://github.com/davidiswhat/AnimeIllustrationRecognizer/blob/main/Screenshots/MainWindow.PNG)
@@ -46,3 +46,8 @@ Our code directly referenced the code in the following repositories:
 - https://github.com/nagadomi/lbpcascade_animeface
 
 We give special thanks to them
+
+## Author
+
++ [https://github.com/davidiswhat](https://github.com/davidiswhat)
++ [https://github.com/Gnoseil](https://github.com/Gnoseil)
