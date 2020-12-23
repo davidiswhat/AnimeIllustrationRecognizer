@@ -11,6 +11,9 @@ We apologize as we do not have a convenient way to install all the package depen
 Run MainWindow.py after installation
 
 # Usage
+- Note: Character names are shown and are treated as a tag
+- Note: output.txt and output.jpg are generated from the most recent output
+- Note: The two buttons, "Mask" and "Stylegan", currently do nothing and are hidden from users
 
 ## Main Window 
 ![](https://github.com/davidiswhat/AnimeIllustrationRecognizer/blob/main/Screenshots/MainWindow.PNG)
@@ -19,8 +22,6 @@ Run MainWindow.py after installation
 - Each submission to the database requires a unique submission name
 - You only need to submit the file name (e.g. sub1.jpg) in the second textbox if it is a unique file name in the database; otherwise, you must also include the submission name in the first textbox
 - Click the "Submit" button to view the image from the database and generate the tag outputs 
-- Note: Character names are shown and are treated as a tag
-- Note: output.txt and output.jpg are generated from the most recent output
 
 ## Image Preprocessing
 ![](https://github.com/davidiswhat/AnimeIllustrationRecognizer/blob/main/Screenshots/ImagePreprocessing.PNG)
@@ -32,8 +33,6 @@ Run MainWindow.py after installation
 - WARNING: This is a time-consuming process
 - Clicking the "Pixelate" button will open a window where the user can input a tag (e.g. headphones) to pixelate
 - The image will pixelate the relevant area(s) the model used to calculate the tag's confidence coefficient 
-- Note: The other two buttons, "Mask" and "Stylegan", currently do nothing and are hidden from users
-
 
 # Training Dataset
 - The database of the Anime imageboard, Danbooru, was the source of the training data
