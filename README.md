@@ -36,7 +36,7 @@ Run MainWindow.py after installation
 
 # Training Dataset
 - The database of the Anime imageboard, Danbooru, was the source of the training data
-- Danbooru contains Anime images that are labeled with the character name(s) and a variety of other community labeled tags
+- Danbooru contains Anime images that are labeled with the character name(s) and a variety of community tags
 - SFW (Safe For Work) images for each of the tags (character names were treated as a tag) were fed to the Attention Model
 
 # Machine Learning Code References
