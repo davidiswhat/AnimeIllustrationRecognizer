@@ -46,3 +46,9 @@ Our code directly referenced the code in the following repositories:
 - https://github.com/nagadomi/lbpcascade_animeface
 
 We give special thanks to them
+
+## Author
+
+**David Li**
++ [https://github.com/davidiswhat](https://github.com/davidiswhat)
++ [https://github.com/Gnoseil](https://github.com/Gnoseil)
