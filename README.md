@@ -2,9 +2,9 @@
 AnimeIllustrationRecognizer is an application to recognize Anime characters and tags (labels) for a given illustration by using an Attention Model.
 
 # Installation Instructions
-git clone https://github.com/davidiswhat/AnimeIllustrationRecognizer.git
-cd AnimeIllustrationRecognizer
-pip install -r requirements.txt
+- git clone https://github.com/davidiswhat/AnimeIllustrationRecognizer.git
+- cd AnimeIllustrationRecognizer
+- pip install -r requirements.txt
 
 ## Prerequisites
 - Due to us reaching the limit of GitHub's LFS free data plan, you must download the Attention Model from the following Google Drive: https://drive.google.com/file/d/1V6ztX0O3w4_w8k8otXrQjylX2_biAX3I/view?usp=sharing
