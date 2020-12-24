@@ -8,7 +8,7 @@ AnimeIllustrationRecognizer is an application to recognize Anime characters and 
 
 ## Prerequisites
 - Due to us reaching the limit of GitHub's LFS free data plan, you must download the Attention Model from the following Google Drive: https://drive.google.com/file/d/1V6ztX0O3w4_w8k8otXrQjylX2_biAX3I/view?usp=sharing
-- Then move the approximately 600MB file into /AnimeFaceNotebooks/deepdanbooru_model/ 
+- Then move the approximately 600MB file into AnimeFaceNotebooks/deepdanbooru_model/ 
 
 Run MainWindow.py after installation
 
