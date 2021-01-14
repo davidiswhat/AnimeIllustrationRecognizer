@@ -1,5 +1,5 @@
 # AnimeIllustrationRecognizer
-AnimeIllustrationRecognizer is an application to recognize Anime characters and tags (labels) for a given illustration by using an Attention Model.
+AnimeIllustrationRecognizer is a Python application that recognizes Anime characters and tags (labels) for a given illustration by using an Attention Model.
 
 # Installation Instructions
 - git clone https://github.com/davidiswhat/AnimeIllustrationRecognizer.git
@@ -46,5 +46,3 @@ Our code directly referenced the code in the following repositories:
 - https://github.com/halcy/AnimeFaceNotebooks
 - https://github.com/halcy/DeepDanbooruActivationMaps
 - https://github.com/nagadomi/lbpcascade_animeface
-
-We give special thanks to them
